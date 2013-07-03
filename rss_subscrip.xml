@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Mark subscriptions in Google Reader</title>
+    </head>
+    <body>
+        <outline text="A Radiused Corner - My Internet Bento Box"
+            title="A Radiused Corner - My Internet Bento Box" type="rss"
+            xmlUrl="http://radiusedcorner.blogspot.com/feeds/posts/default" htmlUrl="http://radiusedcorner.blogspot.com/"/>
+        <outline text="adventuresoflibby" title="adventuresoflibby"
+            type="rss"
+            xmlUrl="http://adventuresoflibby.wordpress.com/feed/" htmlUrl="http://adventuresoflibby.wordpress.com"/>
+        <outline text="Aguachile" title="Aguachile" type="rss"
+            xmlUrl="http://aguachile.blogspot.com/feeds/posts/default" htmlUrl="http://aguachile.blogspot.com/"/>
+        <outline text="APOD" title="APOD" type="rss"
+            xmlUrl="http://antwrp.gsfc.nasa.gov/apod.rss" htmlUrl="http://antwrp.gsfc.nasa.gov/"/>
+        <outline text="Bad Science" title="Bad Science" type="rss"
+            xmlUrl="http://www.badscience.net/feed/" htmlUrl="http://www.badscience.net"/>
+        <outline text="Border Wait Times" title="Border Wait Times"
+            type="rss"
+            xmlUrl="http://apps.cbp.gov/bwt/rss.asp?portList=250401&amp;f=html" htmlUrl="http://apps.cbp.gov/bwt/"/>
+        <outline text="Borderland Beat" title="Borderland Beat"
+            type="rss"
+            xmlUrl="http://www.borderlandbeat.com/feeds/posts/default" htmlUrl="http://www.borderlandbeat.com/"/>
+        <outline text="Calculated Risk" title="Calculated Risk"
+            type="rss"
+            xmlUrl="http://feeds.feedburner.com/CalculatedRisk" htmlUrl="http://www.calculatedriskblog.com/"/>
+        <outline text="Center for American Progress"
+            title="Center for American Progress" type="rss"
+            xmlUrl="http://www.americanprogress.org/rss/atom.xml" htmlUrl="http://www.americanprogress.org/"/>
+        <outline text="Club Tijuana Xoloitzcuintles de Caliente"
+            title="Club Tijuana Xoloitzcuintles de Caliente" type="rss"
+            xmlUrl="http://clubtijuana.mx/feed/" htmlUrl="http://clubtijuana.mx"/>
+        <outline text="Digest Blog" title="Digest Blog" type="rss"
+            xmlUrl="http://www.lamag.com/_SHARED/Feeds/v1/RSS/FeedsRSS.ashx?feedid=145" htmlUrl="http://www.lamag.com/lafood/digestblog"/>
+        <outline text="Eater San Diego" title="Eater San Diego"
+            type="rss" xmlUrl="http://sandiego.eater.com/atom.xml" htmlUrl="http://sandiego.eater.com/"/>
+        <outline text="Economy" title="Economy" type="rss"
+            xmlUrl="http://www.americanprogress.org/issues/economy/index.html/index.rss" htmlUrl="http://www.americanprogress.org/issues/economy/index.html/index.rss"/>
+        <outline text="FiveThirtyEight" title="FiveThirtyEight"
+            type="rss"
+            xmlUrl="http://fivethirtyeight.blogs.nytimes.com/feed" htmlUrl="http://fivethirtyeight.blogs.nytimes.com/"/>
+        <outline text="Gancho" title="Gancho" type="rss"
+            xmlUrl="http://ganchoblog.blogspot.com/feeds/posts/default" htmlUrl="http://ganchoblog.blogspot.com/"/>
+        <outline text="Grantland: Home Page"
+            title="Grantland: Home Page" type="rss"
+            xmlUrl="http://www.grantland.com/feed" htmlUrl="http://www.grantland.com"/>
+        <outline text="Hey Man" title="Hey Man" type="rss"
+            xmlUrl="http://heybartman.blogspot.com/feeds/posts/default" htmlUrl="http://heybartman.blogspot.com/"/>
+        <outline text="Hunter Angler Gardener Cook"
+            title="Hunter Angler Gardener Cook" type="rss"
+            xmlUrl="http://honest-food.net/feed" htmlUrl="http://honest-food.net"/>
+        <outline text="ISM News on the Net" title="ISM News on the Net"
+            type="rss"
+            xmlUrl="http://www.ism.ws/About/MediaRoom/RSSFeed.cfm" htmlUrl="http://www.ism.ws/About/MediaRoom/RSSFeed.cfm"/>
+        <outline
+            text="Legislative Analyst's Office: Recent Publications and Handouts"
+            title="Legislative Analyst's Office: Recent Publications and Handouts"
+            type="rss"
+            xmlUrl="http://www.lao.ca.gov/laoapp/rss/LAORSSFeedNew.aspx?laofeed=20" htmlUrl="http://www.lao.ca.gov"/>
+        <outline text="Letters of Note" title="Letters of Note"
+            type="rss"
+            xmlUrl="http://www.lettersofnote.com/feeds/posts/default" htmlUrl="http://www.lettersofnote.com/"/>
+        <outline text="Life &amp; Food" title="Life &amp; Food"
+            type="rss"
+            xmlUrl="http://www.lifeandfoodblog.com/?feed=rss2" htmlUrl="http://www.lifeandfoodblog.com"/>
+        <outline text="Live From Mars" title="Live From Mars" type="rss"
+            xmlUrl="http://themis.asu.edu/livefrommars/feed" htmlUrl="http://themis.asu.edu/livefrommars"/>
+        <outline text="mainly macro" title="mainly macro" type="rss"
+            xmlUrl="http://mainlymacro.blogspot.com/feeds/posts/default" htmlUrl="http://mainlymacro.blogspot.com/"/>
+        <outline text="Men in Blazers" title="Men in Blazers" type="rss"
+            xmlUrl="http://meninblazers.com/rss" htmlUrl="http://meninblazers.com/"/>
+        <outline text="Minuto a minuto edición Nacional"
+            title="Minuto a minuto edición Nacional" type="rss"
+            xmlUrl="http://www.milenio.com/cdb/views/atiempo/rss" htmlUrl="http://www.milenio.com/cdb/views/atiempo/rss"/>
+        <outline text="mmm-yoso!!!" title="mmm-yoso!!!" type="rss"
+            xmlUrl="http://mmm-yoso.typepad.com/mmmyoso/atom.xml" htmlUrl="http://mmm-yoso.typepad.com/mmmyoso/"/>
+        <outline text="National Hurricane Center (Atlantic)"
+            title="National Hurricane Center (Atlantic)" type="rss"
+            xmlUrl="http://www.nhc.noaa.gov/index-at.xml" htmlUrl="http://www.nhc.noaa.gov/"/>
+        <outline text="Not A Blog" title="Not A Blog" type="rss"
+            xmlUrl="http://grrm.livejournal.com/data/rss" htmlUrl="http://grrm.livejournal.com/"/>
+        <outline text="NYT > Business Day" title="NYT > Business Day"
+            type="rss"
+            xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Business.xml" htmlUrl="http://www.nytimes.com/pages/business/index.html?partner=rss&amp;emc=rss"/>
+        <outline text="NYT > Home Page" title="NYT > Home Page"
+            type="rss"
+            xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml" htmlUrl="http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss"/>
+        <outline text="NYT > Magazine" title="NYT > Magazine" type="rss"
+            xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Magazine.xml" htmlUrl="http://www.nytimes.com/pages/magazine/index.html?partner=rss&amp;emc=rss"/>
+        <outline text="NYT > Opinion" title="NYT > Opinion" type="rss"
+            xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Opinion.xml" htmlUrl="http://www.nytimes.com/pages/opinion/index.html?partner=rss&amp;emc=rss"/>
+        <outline text="NYT > Politics" title="NYT > Politics" type="rss"
+            xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Politics.xml" htmlUrl="http://www.nytimes.com/pages/politics/index.html?partner=rss&amp;emc=rss"/>
+        <outline text="NYT > U.S." title="NYT > U.S." type="rss"
+            xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/US.xml" htmlUrl="http://www.nytimes.com/pages/national/index.html?partner=rss&amp;emc=rss"/>
+        <outline text="NYT > World" title="NYT > World" type="rss"
+            xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/World.xml" htmlUrl="http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss"/>
+        <outline text="O'Briens News" title="O'Briens News" type="rss"
+            xmlUrl="http://www.obrienspub.net/news/?feed=rss2" htmlUrl="http://obrienspub.net"/>
+        <outline text="Paul Krugman" title="Paul Krugman" type="rss"
+            xmlUrl="http://krugman.blogs.nytimes.com/feed" htmlUrl="http://krugman.blogs.nytimes.com/"/>
+        <outline text="San Diego Beer Blog" title="San Diego Beer Blog"
+            type="rss" xmlUrl="http://www.sandiegobeerblog.com/feed" htmlUrl="http://www.sandiegobeerblog.com"/>
+        <outline text="San Diego Free Press"
+            title="San Diego Free Press" type="rss"
+            xmlUrl="http://feeds.feedburner.com/SanDiegoFreePress" htmlUrl="http://sandiegofreepress.org"/>
+        <outline text="San diego reader Blogs: Group 'Beer Fest'"
+            title="San diego reader Blogs: Group 'Beer Fest'" type="rss"
+            xmlUrl="http://www.sandiegoreader.com/rss/weblog_group_entries/beer/" htmlUrl="http://sandiegoreader.com/weblogs/groups/beer/"/>
+        <outline text="scuba craigslist" title="scuba craigslist"
+            type="rss"
+            xmlUrl="http://sandiego.craigslist.org/search/spo/csd?query=scuba&amp;srchType=A&amp;minAsk=&amp;maxAsk=&amp;format=rss" htmlUrl="http://sandiego.craigslist.org/search/spo/csd?query=scuba&amp;amp;srchType=A"/>
+        <outline text="Soccer By Ives" title="Soccer By Ives" type="rss"
+            xmlUrl="http://www.soccerbyives.net/soccer_by_ives/atom.xml" htmlUrl="http://www.soccerbyives.net/"/>
+        <outline text="Stick a Fork In It" title="Stick a Fork In It"
+            type="rss"
+            xmlUrl="http://blogs.ocweekly.com/stickaforkinit/atom.xml" htmlUrl="http://blogs.ocweekly.com/stickaforkinit/"/>
+        <outline text="Street Gourmet LA" title="Street Gourmet LA"
+            type="rss"
+            xmlUrl="http://www.streetgourmetla.com/feeds/posts/default" htmlUrl="http://www.streetgourmetla.com/"/>
+        <outline text="The Farm and the City"
+            title="The Farm and the City" type="rss"
+            xmlUrl="http://thelinkery.com/blog/feed/" htmlUrl="http://thelinkery.com/blog"/>
+        <outline text="The MNT Blog" title="The MNT Blog" type="rss"
+            xmlUrl="http://sitelife.ussoccer.com/ver1.0/BlogRss?plckBlogId=Blog:1a697a53-a181-4302-aa61-f454d97c88fd" htmlUrl="http://www.ussoccer.com/Social/MNT-Blog.aspx"/>
+        <outline text="The Run of Play" title="The Run of Play"
+            type="rss" xmlUrl="http://feeds.runofplay.com/runofplay" htmlUrl="http://www.runofplay.com"/>
+        <outline text="The Shin Guardian" title="The Shin Guardian"
+            type="rss" xmlUrl="http://theshinguardian.com/feed/" htmlUrl="http://theshinguardian.com"/>
+        <outline text="TJ Sports" title="TJ Sports" type="rss"
+            xmlUrl="http://www.tjsports.net/feed/" htmlUrl="http://tjsports.net"/>
+        <outline text="Two Cathedrals" title="Two Cathedrals" type="rss"
+            xmlUrl="http://twocathedrals.com/?feed=rss2" htmlUrl="http://twocathedrals.com"/>
+        <outline text="U.S. Soccer: Latest Headlines"
+            title="U.S. Soccer: Latest Headlines" type="rss"
+            xmlUrl="http://www.ussoccer.com/News/News-Landing.aspx?rss=true" htmlUrl="http://www.ussoccer.com/news/news-landing.aspx"/>
+        <outline text="USGS M 2.5+ Earthquakes"
+            title="USGS M 2.5+ Earthquakes" type="rss"
+            xmlUrl="http://earthquake.usgs.gov/earthquakes/catalogs/eqs1day-M2.5.xml" htmlUrl="http://earthquake.usgs.gov/earthquakes/"/>
+        <outline text="USGS M 5+ Earthquakes"
+            title="USGS M 5+ Earthquakes" type="rss"
+            xmlUrl="http://earthquake.usgs.gov/earthquakes/catalogs/eqs7day-M5.xml" htmlUrl="http://earthquake.usgs.gov/earthquakes/"/>
+        <outline text="UT - Public Safety" title="UT - Public Safety"
+            type="rss"
+            xmlUrl="http://www.signonsandiego.com/rss/headlines/public-safety/" htmlUrl="http://www.utsandiego.com/news/local-topics/public-safety/"/>
+        <outline text="UT - Watchdog" title="UT - Watchdog" type="rss"
+            xmlUrl="http://www.signonsandiego.com/rss/headlines/watchdog/" htmlUrl="http://www.utsandiego.com/news/watchdog/"/>
+        <outline text="utsandiego.com stories: Local Topics"
+            title="utsandiego.com stories: Local Topics" type="rss"
+            xmlUrl="http://utsandiego.com/rss/headlines/local-topics/" htmlUrl="http://www.utsandiego.com/news/local-topics/"/>
+        <outline text="Voice of San Diego" title="Voice of San Diego"
+            type="rss"
+            xmlUrl="http://feeds.voiceofsandiego.org/vosd-podcast" htmlUrl="http://www.voiceofsandiego.org"/>
+        <outline text="voiceofsandiego.org -- All articles, full feed"
+            title="voiceofsandiego.org -- All articles, full feed"
+            type="rss"
+            xmlUrl="http://feeds.feedburner.com/voice-of-san-diego-all-articles" htmlUrl="http://voiceofsandiego.org"/>
+        <outline text="War Tard" title="War Tard" type="rss"
+            xmlUrl="http://wartard.blogspot.com/feeds/posts/default" htmlUrl="http://wartard.blogspot.com/"/>
+        <outline text="West Coaster" title="West Coaster" type="rss"
+            xmlUrl="http://www.westcoastersd.com/feed/" htmlUrl="http://www.westcoastersd.com"/>
+        <outline text="WhiskyCast" title="WhiskyCast" type="rss"
+            xmlUrl="http://www.whiskycast.libsyn.com/rss" htmlUrl="http://www.whiskycast.com"/>
+        <outline text="Will Self" title="Will Self" type="rss"
+            xmlUrl="http://will-self.com/feed/" htmlUrl="http://will-self.com"/>
+        <outline text="WTF with Marc Maron Podcast - Episodes"
+            title="WTF with Marc Maron Podcast - Episodes" type="rss"
+            xmlUrl="http://www.wtfpod.com/podcast/rss" htmlUrl="http://www.wtfpod.com/podcast/episodes/"/>
+        <outline text="Xolopasión" title="Xolopasión" type="rss"
+            xmlUrl="http://blogs.mediotiempo.com/xolopasion/feed/" htmlUrl="http://blogs.mediotiempo.com/xolopasion"/>
+        <outline text="XoloSd 100% Not Official"
+            title="XoloSd 100% Not Official" type="rss"
+            xmlUrl="http://feeds.feedburner.com/xolosd" htmlUrl="http://xolosd.com"/>
+        <outline text="Yanks Abroad" title="Yanks Abroad" type="rss"
+            xmlUrl="http://feeds.feedburner.com/YanksAbroad" htmlUrl="http://nasn.tv"/>
+        <outline text="Yanks Abroad" title="Yanks Abroad" type="rss"
+            xmlUrl="http://www.yanks-abroad.com/rss.php" htmlUrl="http://www.yanks-abroad.com"/>
+        <outline text="Zonal Marking" title="Zonal Marking" type="rss"
+            xmlUrl="http://www.zonalmarking.net/feed/" htmlUrl="http://www.zonalmarking.net"/>
+    </body>
+</opml>
